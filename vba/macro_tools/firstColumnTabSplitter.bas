@@ -2,6 +2,7 @@ Sub firstColumnTabSplitter()
     ' FirstColumnTabSplitter Macro / assumes column "A" as unique list
     ' Sort by Column A and will make tabs based on unique values
     ' Updated 11.27.12 to work for both .xlsx and .xls
+    ' Updated 7.1017 works with O-365
 
     Application.ScreenUpdating = False
     Application.DisplayAlerts = False
