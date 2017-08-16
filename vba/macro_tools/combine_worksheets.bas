@@ -1,3 +1,5 @@
+Option Explicit
+
 Sub combine_worksheets()
     Dim j As Integer
 
