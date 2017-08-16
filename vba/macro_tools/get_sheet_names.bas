@@ -1,3 +1,5 @@
+Option Explicit
+
 Sub get_sheet_names()
     'Lists each sheet starting with active cell
     Dim wSheet As Worksheet
