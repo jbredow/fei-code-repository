@@ -1,3 +1,5 @@
+Option Explicit
+
 Sub reset_used_range()
     With ActiveSheet
         Debug.Print .UsedRange.Address(0, 0)
