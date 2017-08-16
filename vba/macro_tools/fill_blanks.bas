@@ -28,7 +28,7 @@ Sub fill_blanks()
     End If
  
     rRange2.FormulaR1C1 = "=R[-1]C"
-
+' uncomment below to allow for formula fill
     'iReply = MsgBox("Convert to Values", vbYesNo + vbQuestion, "Midwest RPC")
     'If iReply = vbYes Then rRange1 = rRange1.value
     rRange1 = rRange1.Value
