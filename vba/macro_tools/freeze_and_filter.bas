@@ -1,3 +1,5 @@
+Option Explicit
+
 Sub freeze_and_filter()
 
     Dim sStartCell As String
