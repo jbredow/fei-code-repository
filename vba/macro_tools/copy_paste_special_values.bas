@@ -1,3 +1,5 @@
+Option Explicit
+
 Sub copy_paste_values()
     Selection.Copy
     Selection.PasteSpecial _
