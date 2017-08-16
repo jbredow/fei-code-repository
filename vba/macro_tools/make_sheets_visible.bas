@@ -1,3 +1,5 @@
+Option Explicit
+
 Sub make_sheets_visible()
     Dim i As Integer
     
