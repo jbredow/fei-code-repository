@@ -1,3 +1,5 @@
+Option Explicit
+
 Sub reset_application()
 
     With Application
