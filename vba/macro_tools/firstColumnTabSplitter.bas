@@ -1,3 +1,5 @@
+Option Explicit
+
 Sub firstColumnTabSplitter()
     ' FirstColumnTabSplitter Macro / assumes column "A" as unique list
     ' Sort by Column A and will make tabs based on unique values
