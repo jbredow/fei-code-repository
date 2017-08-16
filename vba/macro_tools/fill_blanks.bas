@@ -1,3 +1,5 @@
+Option Explicit
+
 Sub fill_blanks()
 ' Fill in the blanks for columns that are only populated with the first
 ' cell of a particular data type.  Select the area that you want to have
